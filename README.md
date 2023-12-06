@@ -7,6 +7,7 @@ Repositório criado para armazenar código para o trabalho de Engenharia de Dado
 - Mashara Arambasic Rebelo da Silva RA 125111373313
 - Victor Hugo Volpiano Fagundes RA 125111368337
 - Yago Angelini Candido RA 125111369950
+- Beatriz Freitas Monteiro RA 125111356183
 
 ## Links de origens de dados
 
